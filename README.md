@@ -1,4 +1,6 @@
 # Saro-s-TeleBot
+**Saro-s-TeleBot IS A TELEGRAM CHATBOT WHICH ASSISTS USERS WITH THE HELP OF OPENAI's gpt-3.5-turbo.**
+
 Steps to create your own Telegram chat-bot:
 
 step 1: Run git clone https://github.com/saravananbs/Saro-s-TeleBot in your terminal.
@@ -15,4 +17,3 @@ step 5 (optional): Check whether your bot is connected with the python program o
 
 step 6: Run the main.py program.
 
-Saro-s-TeleBot IS A TELEGRAM CHATBOT WHICH ASSISTS USERS WITH THE HELP OF OPENAI's gpt-3.5-turbo.
